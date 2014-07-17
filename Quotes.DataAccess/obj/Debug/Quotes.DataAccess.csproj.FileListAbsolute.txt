@@ -1,0 +1,5 @@
+F:\My Coding Projects\WPBackgroundAgentApp\Quotes.DataAccess\bin\Debug\Quotes.DataAccess.dll
+F:\My Coding Projects\WPBackgroundAgentApp\Quotes.DataAccess\bin\Debug\Quotes.DataAccess.pdb
+F:\My Coding Projects\WPBackgroundAgentApp\Quotes.DataAccess\obj\Debug\Quotes.DataAccess.csprojResolveAssemblyReference.cache
+F:\My Coding Projects\WPBackgroundAgentApp\Quotes.DataAccess\obj\Debug\Quotes.DataAccess.dll
+F:\My Coding Projects\WPBackgroundAgentApp\Quotes.DataAccess\obj\Debug\Quotes.DataAccess.pdb

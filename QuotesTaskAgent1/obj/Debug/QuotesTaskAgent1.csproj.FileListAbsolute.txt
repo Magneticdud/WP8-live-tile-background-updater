@@ -1,0 +1,7 @@
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\Bin\Debug\QuotesTaskAgent1.dll
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\Bin\Debug\QuotesTaskAgent1.pdb
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\Bin\Debug\Quotes.DataAccess.dll
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\Bin\Debug\Quotes.DataAccess.pdb
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\obj\Debug\QuotesTaskAgent1.csprojResolveAssemblyReference.cache
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\obj\Debug\QuotesTaskAgent1.dll
+F:\My Coding Projects\WPBackgroundAgentApp\QuotesTaskAgent1\obj\Debug\QuotesTaskAgent1.pdb
